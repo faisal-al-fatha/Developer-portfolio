@@ -16,6 +16,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 0px;
 }
 
 .half-width {
@@ -24,7 +25,7 @@ section {
 }
 
 .half-width img {
-    width: 80%;
+    width: 90%;
 }
 
 .Hire-me-button {
@@ -39,4 +40,11 @@ section {
 .top {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
